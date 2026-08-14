@@ -1,4 +1,4 @@
-# 🛒 PavPlas — Gateway de Pagamento
+# PavPlas — Gateway de Pagamento 🛒
 
 Sistema em desenvolvimento para **automação do processo de vendas e pagamentos da PavPlas**, desenvolvido como projeto acadêmico do curso de **Gestão da Tecnologia da Informação — Fatec Barueri**.
 
@@ -131,7 +131,7 @@ Este projeto está sendo desenvolvido como parte do curso de **Gestão da Tecnol
 **Curso:** Gestão da Tecnologia da Informação
 **Ano:** 2026
 
-### 👥 Equipe
+### 👥 Stakeholders externos
 
 * Rafael Thiengo Reis
 * Gustavo Sirqueira Soares da Silva
