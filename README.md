@@ -138,6 +138,7 @@ Este projeto está sendo desenvolvido como parte do curso de **Gestão da Tecnol
 * Stanley Sousa do Vale
 * Cauã Azeredo Golden Rodrigues
 * Nayara Teixeira da Silva
+* Heitor Soares Tanan
 
 **Orientador:** Prof. Vander Ribeiro Elme
 
@@ -152,20 +153,6 @@ A documentação do projeto aborda:
 * Gateway de pagamento;
 * Integração de sistemas;
 * Gestão de processos.
-
-## 🔮 Próximos passos
-
-O projeto ainda está em desenvolvimento. Entre os próximos passos estão:
-
-1. Definição da arquitetura do sistema;
-2. Desenvolvimento da plataforma de e-commerce;
-3. Implementação do banco de dados;
-4. Desenvolvimento do carrinho e checkout;
-5. Integração com serviços externos;
-6. Implementação do Gateway de Pagamento;
-7. Testes das funcionalidades;
-8. Integração dos processos de estoque, financeiro e logística;
-9. Documentação técnica do sistema.
 
 ## 📄 Referências
 
