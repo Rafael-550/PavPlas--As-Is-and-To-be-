@@ -1,4 +1,4 @@
-# PavPlas — Gateway de Pagamento 🛒
+# 🛒 PavPlas — Gateway de Pagamento 
 
 Sistema em desenvolvimento para **automação do processo de vendas e pagamentos da PavPlas**, desenvolvido como projeto acadêmico do curso de **Gestão da Tecnologia da Informação — Fatec Barueri**.
 
@@ -144,15 +144,19 @@ Este projeto está sendo desenvolvido como parte do curso de **Gestão da Tecnol
 
 ## 📚 Documentação
 
-A documentação do projeto aborda:
+A documentação do projeto apresenta as principais etapas de análise e desenvolvimento da solução para a PavPlas:
 
-* Mapeamento do processo atual (**As-Is**);
-* Identificação de problemas e gargalos;
-* Proposta do processo futuro (**To-Be**);
-* Automação de vendas;
-* Gateway de pagamento;
-* Integração de sistemas;
-* Gestão de processos.
+* **Levantamento de requisitos**;
+* **Análise do processo atual (As-Is)**;
+* **Identificação de problemas e gargalos**;
+* **Proposta do processo futuro (To-Be)**;
+* **Metodologia de desenvolvimento**;
+* **Modelagem e arquitetura da solução**;
+* **Gateway de pagamento e fluxo de pagamentos**;
+* **Segurança e proteção de dados**;
+* **Conclusões**.
+
+[📄 Acessar Monografia](https://centropaulasouza-my.sharepoint.com/:w:/g/personal/stanley_vale_aluno_cps_sp_gov_br/IQAhXMxQcte2SLOiCvJrBqe2ASl8TQBpAwXTMBuRzbDCZqU?e=P8UXAK)
 
 ## 📄 Referências
 
