@@ -156,7 +156,6 @@ A documentação do projeto apresenta as principais etapas de análise e desenvo
 * **Segurança e proteção de dados**;
 * **Conclusões**.
 
-[📄 Acessar Monografia](https://centropaulasouza-my.sharepoint.com/:w:/g/personal/stanley_vale_aluno_cps_sp_gov_br/IQAhXMxQcte2SLOiCvJrBqe2ASl8TQBpAwXTMBuRzbDCZqU?e=U5Aikm)
 
 ## 📄 Referências
 
